@@ -1,0 +1,48 @@
+### Hugo generated files ###
+/public/
+/resources/_gen/
+/hugo_stats.json
+/.hugo_build.lock
+/assets/jsconfig.json
+
+# Optional: if Hugo Modules cache folders ever appear
+/modules/
+/.go/
+
+### macOS System Files ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.com.apple.timemachine.donotpresent
+.DocumentRevisions-V100
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+### iCloud ###
+*.icloud
+
+### VS Code ###
+.vscode/
+.history/
+.ionide/
+
+### Other common editor/system clutter ###
+.idea/
+*.swp
+*.swo
+*.bak
+*.log
+*.tmp
+*.temp
+
+### Windows (just in case you zip this up elsewhere) ###
+Thumbs.db
