@@ -71,6 +71,6 @@ Unused folders like i18n/, data/, and themes/ were removed for clarity.
 
 # Credits
 
-Theme: Congo by @jpanther
+Theme: Congo by @jpanther 
 Built with Hugo
 
