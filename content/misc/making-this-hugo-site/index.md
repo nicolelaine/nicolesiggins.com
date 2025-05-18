@@ -235,6 +235,20 @@ jobs:
           publish_dir: ./public
 ```
 
+It's important that once you push your site to Github, that you ensure that your permissions for the repo are correct, otherwise the Github actions won't be able to resolve.
+
+For the repo you want to deploy, go to Settings > Actions > General > Workflow permissions, and make sure that the "Read and write permissions" button is selected. And remember to save!
+
+You'll then need to make a small change to your site, and push again to Github, so that workflow can run, and create the gh-pages branch for you.
+
+Once this happens, you'll need to get Github Pages set up.
+
+Go to Settings > Pages > Build and Development and choose "Deploy from a branch." Choose gh-pages and leave it set as /root.
+
+Further down the page you can add your custom domain. You'll also need to make sure your DNS records / name servers are correct for Github at your domain registrar. My registrar is [Porkbun](https://porkbun.com/), who had a nifty little button for Github, that got this set up for me.
+
+I hope this helps! 
+
 ## Got any feedback?
 
 Please get in touch! I'm learning as I go and appreciate any tips and tricks! 😊
