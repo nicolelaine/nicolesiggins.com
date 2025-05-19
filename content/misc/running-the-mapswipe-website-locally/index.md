@@ -4,7 +4,7 @@ description: "A walk through tutorial on how to run the MapSwipe website locally
 layout: "single"
 draft: false
 date: 2025-05-15T15:22:30Z
-tags: ["Programming"]
+tags: ["Programming", "MapSwipe"]
 coverCaption: "The MapSwipe website in action!"
 coverAlt: "A screenshot of the MapSwipe website."
 featureAlt: "The MapSwipe website in action!"
