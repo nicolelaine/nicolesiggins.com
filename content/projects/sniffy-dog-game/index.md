@@ -16,7 +16,7 @@ I made my first video game as part of the 2019 Pixelles Game Incubator VII Follo
 
 The game is programed in [Stencyl](https://www.stencyl.com/) and the dog and trees were created in [Pixilart](https://www.pixilart.com/). The sniffs were created with the spray paint function in [Gimp](https://www.gimp.org/). The snorts and crunches were of a random dog on the internet on [freesound.org](https://freesound.org/).
 
-The music is "Happy Sandbox" by Motivve (now known as Unlistenable.")
+The music is "Happy Sandbox" by Motivve (now known as "Unlistenable.")
 
 Happy sandbox by Unlistenable -- https://freesound.org/s/416778/ -- License: Attribution NonCommercial 4.0
 
