@@ -16,7 +16,7 @@ Love is often ridiculous. This participatory art project invites you to share yo
 
 Ridiculous Love is designed to be a temporary project. Beer crates make up it's base, which are easily returnable after breakdown, and the pink cloth is a stretchy latex, which folds down nicely into a small pile. 
 
-The project comes with 4 sets of headphones, so you can listen to the installation with your many loved ones, all that the same time. 
+The project comes with 4 sets of headphones, so you can listen to the installation with your many loved ones, all at the same time. 
 
 The audio is a mix of The Wig by Lalo Schifrin, and my partner and I leaving long distance voice mails on the voice app Voxer over a period of 18 months. This is what is heard through the headphones, on a loop. 
 
