@@ -38,7 +38,7 @@ I'm on the [MapSwipe governance team](/spaces/mapswipe-governance-team/) and lov
 
 ## My Journey ✨
 
-I've worn many hats throughout my life: filmmaker, preschool teacher, tech support agent, administrator, community organizer, event organizer, b2b relationship manager, project manager, (unofficial) product manager, tech lead. I am endlessly curious, am a life-long learner, and love having a beginner's / growth mindset! Each role I’ve held has deepened my passion for solving complex problems, making things happen, and helping others feeling confident in learning something new.
+I've worn many hats throughout my life: filmmaker, preschool teacher, tech support agent, administrator, community organizer, event organizer, b2b relationship manager, project manager, (unofficial) product manager, tech lead. I am endlessly curious, am a life-long learner, and love having a beginner's / growth mindset! Each role I’ve held has deepened my passion for solving complex problems, making things happen, and helping others feel confident in learning something new.
 
 ---
 
