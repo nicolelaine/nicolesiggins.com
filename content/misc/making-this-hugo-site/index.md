@@ -188,7 +188,7 @@ Then, when I want to develop locally, I run the following to view it on the loca
 
 You'll also want to create a .gitignore file at the root of your project. If you're not sure how to get started, [this website](https://www.toptal.com/developers/gitignore) can help. You can add your operating system, any frameworks you are using, as well as your IDE.
 
-To deploy on Github, you'll need to create a deploy.yml file in side of .github/workflows, which should sit in the root of your project.
+To deploy on Github, you'll need to create a deploy.yml file inside of .github/workflows, which should sit in the root of your project.
 
 Here is the workflow I decided upon: 
 
