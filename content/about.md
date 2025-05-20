@@ -61,7 +61,7 @@ Outside of my tech and computer related interests, I’m also artsy and sporty:
 
 ## Let’s Connect 🌐
 
-Have questions, or just want to say hi? Please reach out! You can find me on on [Github](https://github.com/nicolelaine), [email](mailto:hi@nicolesiggins.com), and [LinkedIn](https://www.linkedin.com/in/nicolesiggins/). (If you find me on LinkedIn, please write me a message - I won't know to add you if you don't write me! 😊)
+Have questions, or just want to say hi? Please reach out! You can find me on on [Github](https://github.com/nicolelaine), [email](mailto:hi@nicolesiggins.com), and [LinkedIn](https://www.linkedin.com/in/nicolesiggins/). (If you find me on LinkedIn, please write me a message - I won't know to add you if you don't write me!)
 
 Have fun exploring my site! See ya around! 😊
 
