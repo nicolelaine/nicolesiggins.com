@@ -15,7 +15,7 @@ While working at the [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) 
 
 A continuous challenge was that many of these volunteers were interested in continuing their open geo data journey, however, lacked the resources to stay connected to the wider mapping community.
 
-I created two simple webpages that could be linked to a QR code so excited volunteers could keep mapping long after the event was over. 
+I created two simple web pages that could be linked to a QR code so excited volunteers could keep mapping long after the event was over. 
 
 You can find the "Continue your Contribution" page [here](https://hotosm.netlify.app/).
 
