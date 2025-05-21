@@ -14,7 +14,7 @@ thumbnailAlt: "An animated image of a very pixelated dog with an oversized head.
 
 I made my first video game as part of the 2019 Pixelles Game Incubator VII Follow Along program. 
 
-The game is programed in [Stencyl](https://www.stencyl.com/) and the dog and trees were created in [Pixilart](https://www.pixilart.com/). The sniffs were created with the spray paint function in [Gimp](https://www.gimp.org/). The snorts and crunches were of a random dog on the internet on [freesound.org](https://freesound.org/).
+The game is programmed in [Stencyl](https://www.stencyl.com/) and the dog and trees were created in [Pixilart](https://www.pixilart.com/). The sniffs were created with the spray paint function in [Gimp](https://www.gimp.org/). The snorts and crunches were of a random dog on the internet on [freesound.org](https://freesound.org/).
 
 The music is "Happy Sandbox" by Motivve (now known as "Unlistenable.")
 
