@@ -23,6 +23,8 @@ Check out both pages below! 🚀
 Continue your mapping contribution!
 {{< /button >}}
 
+<br>
+
 {{< button href="https://mapswipe.netlify.app/" target="_blank" >}}
 Get started with MapSwipe!
 {{< /button >}}
