@@ -19,6 +19,8 @@ I was very happy to deliver this talk with Ramya Ragupathy on tools that can be 
 View the presentation slides
 {{< /button >}}
 
+<br>
+
 {{< youtube X94gtPn0kpo >}}
 
 You can find links to the tools that were used in this presentation at this [link](/files/remote-desktop-mapping.pdf).
