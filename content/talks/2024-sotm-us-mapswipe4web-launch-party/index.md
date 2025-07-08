@@ -11,7 +11,11 @@ featureAlt: "State of the Map US 2024 attendees smile for a group photo. 😊"
 thumbnailAlt: "A group of people are standing outside for a group photo at 2024 State of the Map US."
 ---
 
-[MapSwipe4Web](https://web.mapswipe.org) launched officially at [State of the Map US 2024](https://openstreetmap.us/events/state-of-the-map-us/2024/), in Salt Lake City, Utah on Friday, June 7th at 2:15PM local time in a Birds of a Feather session. Participants took a test drive of the brand new product and had a discussion of how it could be used for humanitarian purposes. Presentation slides [here](https://slides.com/nicolelaine/2024-sotm-us-mapswipe4web-launch-party).
+[MapSwipe4Web](https://web.mapswipe.org) launched officially at [State of the Map US 2024](https://openstreetmap.us/events/state-of-the-map-us/2024/), in Salt Lake City, Utah on Friday, June 7th at 2:15PM local time in a Birds of a Feather session. Participants took a test drive of the brand new product and had a discussion of how it could be used for humanitarian purposes. 
+
+{{< button href="https://slides.com/nicolelaine/2024-sotm-us-mapswipe4web-launch-party" target="_blank" >}}
+View the presentation slides
+{{< /button >}}
 
 This was a very exciting tool to project manage and I'm thrilled that it's now out here in the world for all to use.
 
