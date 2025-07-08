@@ -17,7 +17,9 @@ The program offers one-on-one mentor–mentee relationships, mentor–mentee gro
 
 As part of the program, each group within the cohort creates a legacy project - something to symbolize the time spent together. We decided to create a one episode podcast and host it on a landing page. Our podcast, titled "WiG Radio" is about being a woman in GIS, winding career paths, what our loved ones think we do, and more. I created a specialized landing page to hold our episode.
 
-Listen to [our episode](https://nicolelaine.github.io/wig-radio/)!
+{{< button href="https://nicolelaine.github.io/wig-radio/" target="_blank" >}}
+Listen to our episode
+{{< /button >}}
 
 You can find the rest of the legacy projects from our cohort, and other cohorts over the years in the [legacy gallery](https://womeningeospatial.org/legacy-gallery/).
 
