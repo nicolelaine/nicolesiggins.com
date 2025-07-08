@@ -11,7 +11,11 @@ featureAlt: "Sam Colchester, from the Humanitarian OpenStreetMap Team, leads an 
 thumbnailAlt: "An image of a large table of contents in a document, at least 17 pages long."
 ---
 
-I applied for the [2021 HOT Data Quality Internship](https://docs.google.com/presentation/d/1yB-7cQryTZW-tt8ao6zfnOBt9n1tCzEXFI8WHiBdE4Y/edit?slide=id.gb4b343900e_0_0#slide=id.gb4b343900e_0_0). I was already deeply involved in the world  in the world of OpenStreetMap and humanitarian mapping, and was ready to take the next steps to learn more about validating open map data and other humanitarian tech tools. I didn't get into the program, however, a few months later the team put out a [YouTube playlist](https://www.youtube.com/watch?v=UaPwrfES5W0&list=PLb9506_-6FMGuWDuwCBDIj07hHAMCQKTN), which was very exciting. I thought it would be fun and informative to undertake a "self study", where I went through the content on my own, taking notes on what I learned. You can find my notes [here](https://docs.google.com/document/d/11pZZYxmmiNwgV6zJdVREVpIAzyMqpc-yhdWu39aUcCc/edit?tab=t.0).
+I applied for the [2021 HOT Data Quality Internship](https://docs.google.com/presentation/d/1yB-7cQryTZW-tt8ao6zfnOBt9n1tCzEXFI8WHiBdE4Y/edit?slide=id.gb4b343900e_0_0#slide=id.gb4b343900e_0_0). I was already deeply involved in the world  in the world of OpenStreetMap and humanitarian mapping, and was ready to take the next steps to learn more about validating open map data and other humanitarian tech tools. I didn't get into the program, however, a few months later the team put out a [YouTube playlist](https://www.youtube.com/watch?v=UaPwrfES5W0&list=PLb9506_-6FMGuWDuwCBDIj07hHAMCQKTN), which was very exciting. I thought it would be fun and informative to undertake a "self study", where I went through the content on my own, taking notes on what I learned. 
+
+{{< button href="https://docs.google.com/document/d/11pZZYxmmiNwgV6zJdVREVpIAzyMqpc-yhdWu39aUcCc/edit?tab=t.0" target="_blank" >}}
+Read my notes here
+{{< /button >}}
 
 ## What is the HOT Data Quality Internship?
 
