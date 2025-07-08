@@ -19,8 +19,15 @@ I dove into the project and in the process found MapComplete. A true gem of a to
 
 I gave a short presentation on my experience making this theme at London Missing Maps on November 2, 2021.
 
-You can find the theme [here](https://mapcomplete.org/postboxes.html?).
+{{< button href="https://mapcomplete.org/postboxes.html?" target="_blank" >}}
+View the theme here
+{{< /button >}}
 
-Presentation slides [here](https://slides.com/nicolelaine/making-a-mapcomplete-theme).
+<br>
+<br>
+
+{{< button href="https://slides.com/nicolelaine/making-a-mapcomplete-theme" target="_blank" >}}
+View the presentation slides
+{{< /button >}}
 
 If you have any questions about making your own MapComplete theme, please reach out. I'm happy to help you get started! 😊
