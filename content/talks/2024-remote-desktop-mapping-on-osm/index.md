@@ -15,7 +15,9 @@ Between February and May 2024, there were a series of trainings delivered as par
 
 I was very happy to deliver this talk with Ramya Ragupathy on tools that can be used for remote desktop mapping. I spoke specifically about the MapSwipe mobile app, which was in process additionally becoming a web app at the time. 
 
-You can find the presentation slides [here](https://slides.com/nicolelaine/remote-desktop-mapping-on-osm).
+{{< button href="https://slides.com/nicolelaine/remote-desktop-mapping-on-osm" target="_blank" >}}
+View the presentation slides
+{{< /button >}}
 
 You can view the video here:
 {{< youtube X94gtPn0kpo >}}
