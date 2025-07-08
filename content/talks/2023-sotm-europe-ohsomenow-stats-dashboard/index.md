@@ -23,4 +23,6 @@ Lots of interesting discussions were had! 😊
 
 The ohsomeNow stats dashboard and API provide up-to-date and global scale overview statistics on mapping activity in OpenStreetMap. Join us in a workshop where you'll learn what the new dashboard is, a bit about its background, and how to use it to measure your impact across OSM.
 
-Presentation slides [here](https://slides.com/nicolelaine/2023-sotm-europe-ohsomenow-stats-dashboard).
+{{< button href="https://slides.com/nicolelaine/2023-sotm-europe-ohsomenow-stats-dashboard" target="_blank" >}}
+View the presentation slides
+{{< /button >}}

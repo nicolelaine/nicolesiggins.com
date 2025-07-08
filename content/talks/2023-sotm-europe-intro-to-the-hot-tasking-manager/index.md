@@ -20,4 +20,6 @@ Intended for folks who had never heard of the HOT Tasking manager before, or fol
 
 Are you curious how OpenStreetMap can be used for humanitarian purposes for large scale mapping campaigns? Join this hands-on workshop to learn more about the Tasking Manager, how to use it and how to get started.
 
-Presentation slides [here](https://slides.com/nicolelaine/2023-sotm-europe-intro-to-the-hot-tasking-manager/).
+{{< button href="https://slides.com/nicolelaine/2023-sotm-europe-intro-to-the-hot-tasking-manager/" target="_blank" >}}
+View the presentation slides
+{{< /button >}}
