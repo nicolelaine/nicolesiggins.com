@@ -20,7 +20,7 @@ I dove into the project and in the process found MapComplete. A true gem of a to
 I gave a short presentation on my experience making this theme at London Missing Maps on November 2, 2021.
 
 {{< button href="https://mapcomplete.org/postboxes.html?" target="_blank" >}}
-View the theme here
+View my theme here
 {{< /button >}}
 
 <br>

@@ -15,9 +15,19 @@ Disclosure: This talk took place before I got into OpenStreetMap, so the tutoria
 
 This information was presented at Maptime Berlin on September 18, 2018.
 
-[Full Instructions – Make your own printable holiday maps](/files/full-instructions-make-your-own-printable-holiday-maps.pdf)
+{{< button href="https://docs.google.com/presentation/d/12Zupwryq_G1aAqah4YooF2RKFDH7uWU10WTkrullmxI/edit?usp=sharing" target="_blank" >}}
+View the presentation slides
+{{< /button >}}
+
+<br>
+<br>
+
+{{< button href="/files/full-instructions-make-your-own-printable-holiday-maps.pdf" target="_blank" >}}
+Full Instructions – Make your own printable holiday maps
+{{< /button >}}
 
 If you’d like to download a PDF of the map we made for this workshop to print out double-sided on your own, you can find that below.
 
-[Maptime Berlin Paper Map](/files/maptime-berlin-paper-map-print-long-edge-binding.pdf)
-
+{{< button href="/files/maptime-berlin-paper-map-print-long-edge-binding.pdf" target="_blank" >}}
+Maptime Berlin Paper Map
+{{< /button >}}
