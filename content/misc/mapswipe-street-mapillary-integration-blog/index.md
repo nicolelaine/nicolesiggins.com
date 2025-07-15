@@ -16,5 +16,5 @@ The MapSwipe Street Level Imagery project has debuted!
 I blogged about the new project type and it's integration with Mapillary on the Mapillary blog. 
 
 {{< button href="https://blog.mapillary.com/update/2025/05/25/mapswipe-mapillary-integration" target="_blank" >}}
-Read the blog here!
+Read my blog here!
 {{< /button >}}
