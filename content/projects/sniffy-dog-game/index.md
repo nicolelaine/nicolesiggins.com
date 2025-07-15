@@ -33,40 +33,30 @@ Play the game here!
 
 ### How did the Pixelles Game Incubator Work? ###
 
-The Pixelles Game Incubator was an in-person Montreal based program where folks were supported in creating their first video game. The program also had a follow along program, for non Montreal based participants. There was a Slack channel that one could join for a sense of community and to ask any questions throughout the program. 
-
-Each week had a different theme.
+The Pixelles Game Incubator was an in-person Montreal based program where folks were supported in creating their first video game. The program also had a follow along program, for non Montreal based participants. There was a Slack channel that one could join for a sense of community and to ask any questions throughout the program. Each week had a different theme.
 
 #### Week 1 ####
 
-In this week, participants are challenged to come up with a simple game idea that can break down into 1 or 2 main mechanic(s) - the actions the player will be taking in the game. The participants also explore the different tool they plan to use, i.e. which game engine will be used to build the game, etc.
+Brainstorm your game idea and come up with 1 or 2 mechanics of how it could work.
 
 #### Week 2 ####
 
-The participants analyze their game in terms of what the core mechanics and goal aesthetics are. What dynamics will the players have? How will the player play? Dragging the mouse? Typing on the keyboard? Screaming into the mic?
-
-The participants create a paper prototype of their gameplay. They can use cards, paper, post its, drawing etc., to flesh out level ideas, narrative trees, or point and click options. In this week, it's important for the participants to get creative and to not be shy to show their prototype to other people to see if they understand the mechanics of the game. This also helps the participants help find problems in the game design much faster than after coding the game.
+Work out your core mechanics of how people might play your game, what the aesthetic is, and create a paper model of how it will work.
 
 #### Week 3 ####
 
-The participants write out their game feature list – all the things that would be possible in a dream version of the game, highlighting the minimum required features in the feature list to represent the core principles of the game.
-
-In this week, participants also get friends, relatives, coworkers, really anyone who does not already know the game to play test and give a fresh perspective.
+List all the dream features of your game, the minimum features it will have, and explain it to others to ensure it makes sense.
 
 #### Week 4 ####
 
-In this week, participants start adding the artistic touches, and swapping assets. 
-
-It's also important to add in at least one sound effect or background music to the game during this week. (Even just to know how to do it later.)
+Add in artistic touches and at least one sound effect or background song to your game.
 
 #### Week 5 ####
 
-This is the week where the participants finish a minium viable product of the game. They set aside new features and ideas for now, and just focus on getting something that is testable. The participants also continue having folks play test the game and collect specific feedback around gameplay. In this week, participants also export a build of the game and upload it to an online site.
-
-Participants also write out a one-liner description of what the game is and how one can play. 
+Ready your game to be tested. Come up with testing questions for your test audience. Come up with a title, instructions, and a function that restarts your game.
 
 #### Week 6 ####
 
-Participants register their game in the showcase. 
+Get your game online and into the online showcase.
 
 The in-person showcase for this incubator was on March 13, 2019.
