@@ -1,5 +1,5 @@
 ---
-title: "2025 - State of the Map US - From map gazing to humanitarian action - My journey through OSM and the world of open mapping"
+title: "2025 State of the Map US - From map gazing to humanitarian action - My journey through OSM and the world of open mapping"
 description: "A talk about my journey through the world of OSM"
 layout: "single"
 draft: false
