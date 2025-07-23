@@ -17,8 +17,7 @@ I presented my talk, “MapSwipe Today and Its Future in OSM” on Saturday, Jun
 Watch the video on YouTube
 {{< /button >}}
 
-## [Talk synopsis](https://whova.com/embedded/session/hDeQXpxoDgWux-bVAy3MI1xD65j3yq9pnQuXjZnYCNA%3D/4651304/?widget=primary)
-
+### Talk synopsis
 
 MapSwipe is a mobile and web app that enables crowdsourced data collection for OpenStreetMap (OSM). Today, MapSwipe helps prioritize mapping efforts by identifying areas needing updates. This talk will explore future possibilities for exploring expanding its role, including potentially allowing direct edits to OSM and strengthening ties with the OSM community for more seamless contributions. Feedback on these ideas is welcome!
 

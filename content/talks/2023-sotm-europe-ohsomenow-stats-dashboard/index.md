@@ -19,7 +19,7 @@ We also had folks test out the tool, and ran a workshop about various use cases 
 
 Lots of interesting discussions were had! 😊
 
-## [Talk synopsis](https://2023.stateofthemap.eu/program/introducing-the-ohsomenow-stats-dashboard-a-workshop-for-measuring-your-impact)
+### Talk synopsis
 
 The ohsomeNow stats dashboard and API provide up-to-date and global scale overview statistics on mapping activity in OpenStreetMap. Join us in a workshop where you'll learn what the new dashboard is, a bit about its background, and how to use it to measure your impact across OSM.
 

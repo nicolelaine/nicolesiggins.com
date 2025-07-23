@@ -17,7 +17,7 @@ I presented my talk, "From map gazing to humanitarian action - My journey throug
 Watch the video on YouTube
 {{< /button >}}
 
-## [Talk synopsis](https://whova.com/embedded/session/hDeQXpxoDgWux-bVAy3MI1xD65j3yq9pnQuXjZnYCNA%3D/4651271/?widget=primary)
+### Talk synopsis
 
 This talk explores how I went from staring at subway transit maps to learning that loving maps is something one can do for a living. We’ll journey together through my getting started in OSM, becoming a community organizer, and ending up working at the Humanitarian OpenStreetMap Team. It’s been a wild ride! If you are new to the world of OSM and want to hear about someone’s winding path to make mapping in OpenStreetMap into a career, this talk is for you.
 

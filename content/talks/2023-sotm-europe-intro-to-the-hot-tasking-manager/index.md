@@ -15,8 +15,7 @@ This 60 minute talk / workshop was an introduction to the [HOT Tasking Manager](
 
 Intended for folks who had never heard of the HOT Tasking manager before, or folks who had heard of it in passing and wanted to learn more about what it's all about.
 
-
-## [Talk synopsis](https://2023.stateofthemap.eu/program/using-openstreetmap-for-humanitarian-purposes-and-introduction-to-the-hot-tasking-manager)
+### Talk synopsis
 
 Are you curious how OpenStreetMap can be used for humanitarian purposes for large scale mapping campaigns? Join this hands-on workshop to learn more about the Tasking Manager, how to use it and how to get started.
 
