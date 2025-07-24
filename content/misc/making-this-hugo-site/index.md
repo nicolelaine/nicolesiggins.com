@@ -153,6 +153,49 @@ If you want your appearance switcher in the header, as opposed to the footer, yo
       action: "appearance"
 ```
 
+## Automatically resizing images across the site on single pages
+
+First, create a single.html file - layouts/_default/single.html.
+
+Change
+
+````go
+{{ $feature := $images.GetMatch (.Params.feature | default "*feature*") | default $cover }}
+````
+
+to
+
+````go
+ {{- $featureOrig := $images.GetMatch (.Params.feature | default "*feature*") | default $cover }}
+ ````
+
+ and then change
+
+ ````go
+{{ with $feature }}
+````
+
+to
+
+````go
+{{ with $featureOrig }}
+        {{{ $feature := .Resize "1200x0" }}
+````
+
+and finally, change
+
+````go
+{{ partial "picture.html" (dict "img" . "alt" $altText "class" $class "lazy" false "webp" $webp) }}
+````
+
+to
+
+````go
+{{ partial "picture.html" (dict "img" $feature "alt" $altText "class" $class "lazy" false "webp" $webp) }}
+````
+
+You can then play around a bit with the sizes to see what looks best for all the images on the single pages of your site. 
+
 ## Deployment to Github Pages with a Custom URL
 
 First, in the config file, make sure you set the baseURL to your custom domain, making sure to include the / at the end.
