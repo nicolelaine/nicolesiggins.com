@@ -199,6 +199,19 @@ to
 
 You can then play around a bit with the sizes to see what looks best for all the images on the single pages of your site. This also makes it so that if an image is less than 1200px wide, it just leaves the image alone (and does not force it to resize to 1200px wide.)
 
+## Adding social icons to the footer
+
+If you want to add the social icons to the footer, you'll add the following to the footer partial. 
+
+````go
+ {{ if not .IsHome }}
+  <div class="mb-4 flex start">
+    {{ partial "author-links.html" . }}
+  </div>
+{{ end }}
+````
+I added this after the closing nav tag and crated an if statement so that the social icons show on all the pages except for the homepage. 
+
 ## Deployment to Github Pages with a Custom URL
 
 First, in the config file, make sure you set the baseURL to your custom domain, making sure to include the / at the end.
