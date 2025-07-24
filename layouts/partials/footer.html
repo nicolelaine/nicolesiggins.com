@@ -77,6 +77,13 @@
         </ul>
       </nav>
     {{ end }}
+
+ {{ if not .IsHome }}
+  <div class="mb-4 flex start">
+    {{ partial "author-links.html" . }}
+  </div>
+{{ end }}
+
     <div class="flex items-center justify-between">
       <div>
         {{/* Copyright */}}
