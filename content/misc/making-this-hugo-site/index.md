@@ -178,8 +178,11 @@ to
 to
 
 ````go
-{{ with $featureOrig }}
-        {{{ $feature := .Resize "1200x0" }}
+ {{ with $featureOrig }}
+      {{ $feature := . }}
+      {{ if gt .Width 1200 }}
+    {{ $feature = .Resize "1200x" }} <!-- Reassign if wider -->
+    {{ end }}
 ````
 
 and finally, change
@@ -194,7 +197,7 @@ to
 {{ partial "picture.html" (dict "img" $feature "alt" $altText "class" $class "lazy" false "webp" $webp) }}
 ````
 
-You can then play around a bit with the sizes to see what looks best for all the images on the single pages of your site. 
+You can then play around a bit with the sizes to see what looks best for all the images on the single pages of your site. This also makes it so that if an image is less than 1200px wide, it just leaves the image alone (and does not force it to resize to 1200px wide.)
 
 ## Deployment to Github Pages with a Custom URL
 

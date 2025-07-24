@@ -21,7 +21,11 @@
         </div>
       {{ end }}
       {{ with $featureOrig }}
-      {{ $feature := .Resize "1200x0" }}
+      {{ $feature := . }}
+      {{ if gt .Width 1200 }}
+    {{ $feature = .Resize "1200x" }} <!-- Reassign if wider -->
+    {{ end }}
+      
         <div class="prose">
           {{ $altText := $.Params.featureAlt | default $.Params.coverAlt | default "" }}
           {{ $class := "mb-6 rounded-md" }}
