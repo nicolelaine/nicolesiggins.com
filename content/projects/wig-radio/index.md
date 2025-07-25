@@ -4,7 +4,7 @@ description: "A podcast about being a women in the geospatial industry"
 layout: "single"
 draft: false
 date: 2024-07-02
-tags: ["Programming", "Fun"]
+tags: ["Programming", "Fun", "Podcasts"]
 coverCaption: "Photo by Ritupon Baishya on Unsplash"
 coverAlt: "A picture of a microphone with WiG radio written on top of it"
 featureAlt: "A picture of a microphone with WiG radio written on top of it"
