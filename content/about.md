@@ -31,9 +31,6 @@ I love seeing a project through to completion. Most recently, I secured funding 
 
 I'm on the [MapSwipe governance team](/spaces/mapswipe-governance-team/) and love helping to guide its growth and optimization. I've contributed to shaping its current roadmap, documenting user-reported bugs, and developing training materials and resources.
 
-
-
-
 ---
 
 ## My Journey ✨
