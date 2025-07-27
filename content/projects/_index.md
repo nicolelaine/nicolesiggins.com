@@ -8,4 +8,4 @@ cascade:
   categories: ["Projects"]
 ---
 
-I work across the **art, programming, film, and open data spaces**. You can see some **projects** I've had fun working on here. You can check these [tags](/tags) to help you find what you're looking for. Have fun! :rocket:
+I work across the **art, programming, film, and open data spaces**. You can see some **projects** I've had fun working on here. Have fun! :rocket:
