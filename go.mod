@@ -1,5 +1,5 @@
-module github.com/nicolelaine/nicole-website
+module github/nicolelaine/nicolesiggins.com
 
-go 1.23.4
+go 1.24.2
 
-require github.com/jpanther/congo/v2 v2.11.0 // indirect
+require github.com/jpanther/congo/v2 v2.12.2 // indirect
