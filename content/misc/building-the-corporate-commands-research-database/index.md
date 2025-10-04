@@ -54,7 +54,7 @@ Becomes:
     </nav>
 ````
 
-## How to change remove the site author name from the hero on the homepage
+## How to remove the site author name from the hero on the homepage
 
 Blowfish has a very cool thing where it shows the site author as a overlay over the hero image on the homepage when the profile page is in the hero layout. This could be very cool, but because I not only wanted this overlay to be the site title and not the site author, but also because I was also using an image that had the site name in the image, it didn't make sense for me to keep any text here, especially the site author name. So I decided to fully remove it. Here's how I did it. 
 

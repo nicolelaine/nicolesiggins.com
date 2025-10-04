@@ -83,7 +83,7 @@ to this:
 
 This wrapped the desktop and mobile navigation inside a new container, and pushed the text to the right. I also made sure to move the mobile menu button ({{ template "HeaderMobileMenu" . }}) below this new wrapper, so it sits outside the nav + tagline container.
 
-## How to change remove the site author name from the hero on the homepage
+## How to remove the site author name from the hero on the homepage
 
 Blowfish has a very cool thing where it shows the site author as a overlay over the hero image on the homepage when the profile page is in the hero layout. In my case, because my hero was an image, I didn't want any text over the image at all. Here's how I got rid of it.
 
