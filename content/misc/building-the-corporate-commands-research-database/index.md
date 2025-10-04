@@ -19,7 +19,7 @@ I also wanted to keep track of any adjustments I made to the theme so that I a.)
 
 So here goes! 😊
 
-## How to change the the header to show the author as opposed to the site name
+## How to change the header to show the author as opposed to the site name
 
 Because this is meant to be a database for the Institute for Infinitely Small Things, I wanted the both the copyright and the name in the header of the site to show this name (the site author), but I wanted the actual title of the site to be The International Database of Corporate Commands (and I wanted to this to show up on the top tab). The Blowfish theme has all of these items listed as the site title, so I needed to adjust some of the code. 
 
@@ -62,15 +62,19 @@ Create the file in layouts/partials/home/hero.html and copy the contents into it
 
 There are two places that you'll want to comment out in the code. 
 
+````html
 <h1 class="mb-2 text-4xl font-extrabold text-neutral-200">
   {{ .Site.Params.Author.name | default .Site.Title }}
 </h1>
+````
 
 and
 
+````html
 <h1 class="mb-2 text-4xl font-extrabold text-neutral-800 dark:text-neutral-200">
   {{ .Site.Params.Author.name | default .Site.Title }}
 </h1>
+````
 
 Once you comment both of these out, the site author will no longer appear over the top of the hero image on the homepage. 
 

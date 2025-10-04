@@ -7,4 +7,3 @@ draft: false
 
 Here is where I put all the little tidbits that happen in life. :gem_stone:
 
-
