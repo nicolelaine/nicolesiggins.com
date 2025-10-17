@@ -133,7 +133,7 @@ for name, (width, height) in sizes.items():
 
     img.save(f"{name}_feature.png")
 
-print("✅ Images saved with properly scaled text.")
+print("Images saved with properly scaled text.")
 ````
 
 ## Got any feedback?
