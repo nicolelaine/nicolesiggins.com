@@ -19,7 +19,7 @@ A short film by Nicole Siggins and Adina Bogert-O’Brien, March 2017
 - Selected for the [33rd Hamburg International Short Film Festival](https://festival.shortfilm.com) (June 2017)
 - Selected for the [31st Braunschweig International Short Film Festival](https://www.filmfest-braunschweig.de/) (October 2017)
 
-Resist Tanz was created in about three weeks during March 2017. My partner Adina, came up with the concept. We cut arm holes in a paper box, lined it with white paper, and cut a hole in the top for the camera. I shot the film using an iOS app called [OSnap!](https://www.osnapphotoapp.com/) and edited the film in Final Cut Pro. The sound is a mixture of my layered and filtered voice mixed with parts of a [song](https://archive.org/details/TapePlayCollection/04-SlowMove.mp3) called "Slow Move" by Greenhouse George.
+Resist Tanz was created in about three weeks during March 2017. My partner Adina came up with the concept. We cut arm holes in a paper box, lined it with white paper, and cut a hole in the top for the camera. I shot the film using an iOS app called [OSnap!](https://www.osnapphotoapp.com/) and edited the film in Final Cut Pro. The sound is a mixture of my layered and filtered voice mixed with parts of a [song](https://archive.org/details/TapePlayCollection/04-SlowMove.mp3) called "Slow Move" by Greenhouse George.
 
 Resist Tanz was created specifically as a submission to the 33rd Hamburg International Short Film Festival, under the Triple Axel Competition round, which are films under three minutes relating to a chosen theme. 2017's theme was "Resistance." 
 
