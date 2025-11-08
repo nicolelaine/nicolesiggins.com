@@ -23,7 +23,7 @@ I'm heavily involved in [OpenStreetMap](https://www.openstreetmap.org), a free, 
 ### Teaching & Sharing Knowledge
 I enjoy connecting with users of tech tools and helping people find and use available resources to achieve their goals. I like sharing tips that help others navigate the constantly evolving tech world. I'm someone who gets joy out of helping my parents with their tech woes!
 
-I welcome beginners—no question is too silly—and I’m great at translating between users and developers. I love seeing the smile on someone’s face when they realize they better understand a tool and can get the most out of it.
+I adore beginners. No question is too silly, and I’m great at translating between users and developers. I love seeing the smile on someone’s face when they realize they better understand a tool and can get the most out of it.
 
 ### Project & Product Management 
 
