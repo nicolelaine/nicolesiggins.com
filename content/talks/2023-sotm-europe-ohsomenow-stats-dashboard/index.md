@@ -11,7 +11,7 @@ featureAlt: "Me leading the workshop part of the talk. 😊"
 thumbnailAlt: "Me standing with Benni, about to begin the workshop portion of the talk."
 ---
 
-I co-gave this hour long talk / workshop with [Benjamin (Benni) Herfort](https://www.geog.uni-heidelberg.de/gis/herfort.html) of the [Heidelberg Institute of GeoInformation Technology (HeiGIT)](https://heigit.org/de/) at [State of the Map Europe 2023](https://2023.stateofthemap.eu/) in Antwerp, Belgium.
+I co-gave this hour long talk / workshop with [Benjamin (Benni) Herfort](https://heigit.org/team_member/dr-benjamin-herfort/) of the [Heidelberg Institute of GeoInformation Technology (HeiGIT)](https://heigit.org/) at [State of the Map Europe 2023](https://2023.stateofthemap.eu/) in Antwerp, Belgium.
 
 We worked together to create a [new dashboard](https://stats.now.ohsome.org/dashboard) to capture OpenStreetMap stats for everyone using hashtags when mapping using the [HOT Tasking Manager](https://tasks.hotosm.org/). This talk demonstrated the new tool, our process, and findings. 
 
