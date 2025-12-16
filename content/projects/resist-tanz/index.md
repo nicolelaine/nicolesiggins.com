@@ -27,5 +27,5 @@ The title is a play on both German and English words and was a ton of fun to mak
 
 {{< vimeo 210857180 >}}
 
-Concept: Adina Bogert-O'Brien<br> 
+Concept: Adina Bogert-O'Brien, Nicole Siggins<br> 
 Camera, Editing, Sound: Nicole Siggins
