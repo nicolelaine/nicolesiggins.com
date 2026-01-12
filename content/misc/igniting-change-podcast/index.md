@@ -22,4 +22,4 @@ This podcast was a lot of fun to do, and I'm excited to share it with all of you
 
 [YouTube](https://www.youtube.com/watch?v=UBLl0n5jZB8) 
 
-[Spotify](https://open.spotify.com/episode/175MA0WrFLULwQSqODi2T4) 
+[Podbean](https://www.podbean.com/media/share/dir-xmq5f-27cca6ad)
