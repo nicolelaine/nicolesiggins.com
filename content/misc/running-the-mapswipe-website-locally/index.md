@@ -116,7 +116,7 @@ nvm use 18
 Double check the Node version.
 
 ```bash
-node version
+node --version
 ```
 
 Success! Now time to install the dependencies again.
