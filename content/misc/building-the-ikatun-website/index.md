@@ -1,6 +1,6 @@
 ---
 title: "Building the iKatun website"
-description: "Walking through the bits of how built the iKatun website."
+description: "Walking through the bits of how I built the iKatun website."
 layout: "single"
 draft: false
 date: 2025-09-25T15:04:05Z

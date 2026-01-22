@@ -1,6 +1,6 @@
 ---
 title: "Building the Corporate Commands Research Database"
-description: "Walking through the bits of how built the corporate commands research database."
+description: "Walking through the bits of how I built the corporate commands research database."
 layout: "single"
 draft: false
 date: 2025-08-15T15:04:05Z

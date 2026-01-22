@@ -1,6 +1,6 @@
 ---
 title: "Building an Institute Archive with Blowfish"
-description: "Walking through the bits of how the Institute archival website."
+description: "Walking through the bits of how I built the Institute archival website."
 layout: "single"
 draft: false
 date: 2025-07-28T15:04:05Z
