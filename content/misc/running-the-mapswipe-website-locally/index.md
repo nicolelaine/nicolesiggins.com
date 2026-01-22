@@ -11,6 +11,34 @@ featureAlt: "The MapSwipe website in action!"
 thumbnailAlt: "A screenshot of the MapSwipe website."
 ---
 
+{{< alert >}}
+**Update! January 22, 2026:** Some things have changed since this post was made.
+{{< /alert >}}
+
+1) MapSwipe got a new backend, and therefore the API endpoints have changed. They are now: 
+
+```bash
+APP_ENVIRONMENT=DEV
+MAPSWIPE_API_ENDPOINT=https://backend.mapswipe.org/
+MAPSWIPE_REFERRER_ENDPOINT=https://website.mapswipe.org/
+NEXT_PUBLIC_POSTHOG_KEY=<posthog-key>
+NEXT_PUBLIC_POSTHOG_HOST_API=<posthog-host-api>
+```
+
+2) Some of the folders in the repo have not been updated, which causes a build error when building locally. 
+
+Here is the workaround. 
+
+a.) Create a directory called fullData at root level.  
+b.) Inside, create a file called staticData.json.  
+c.) Put this inside that file: {}.  
+d.) Save.  
+e.) Don't commit this to the repo!  
+
+This should bypass any errors and allow you to run the repo locally at port 3020.
+
+***
+
 A friend recently reached out and wanted to know how to run the [MapSwipe website](https://mapswipe.org/en/) locally, so he could check the format of a blog post he'd written. Good question! I had no idea. Well, now I do, and after you read this, hopefully you will too! 😊 
 
 {{< alert >}}
