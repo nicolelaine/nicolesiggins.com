@@ -5,9 +5,9 @@ layout: "single"
 draft: false
 date: 2026-01-19T15:22:30Z
 tags: ["MapSwipe"]
-coverCaption: "Meeting to celebrate MapSwipe's achievements in 2025."
+coverCaption: "Meeting to celebrate MapSwipe's 2025 achievements."
 coverAlt: "Two people on a video call, smiling at the camera."
-featureAlt: "Meeting to celebrate MapSwipe's achievements in 2025."
+featureAlt: "Meeting to celebrate MapSwipe's 2025 achievements."
 thumbnailAlt: "Two people on a video call, smiling at the camera."
 ---
 
