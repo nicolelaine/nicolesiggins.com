@@ -5,10 +5,10 @@ layout: "single"
 draft: false
 date: 2026-01-19T15:22:30Z
 tags: ["MapSwipe"]
-coverCaption: "The MapSwipe website in action!"
-coverAlt: "A screenshot of the MapSwipe website."
-featureAlt: "The MapSwipe website in action!"
-thumbnailAlt: "A screenshot of the MapSwipe website."
+coverCaption: "Meeting to celebrate MapSwipe's achievements in 2025."
+coverAlt: "Two people on a video call, smiling at the camera."
+featureAlt: "Meeting to celebrate MapSwipe's achievements in 2025."
+thumbnailAlt: "Two people on a video call, smiling at the camera."
 ---
 
 MapSwipe had a fantastic year in 2025. We got a new backend, launched three new brand project types, secured our maintenance, and created a space for more continuity for our developers and anyone else interested in the more technical side of MapSwipe. 
