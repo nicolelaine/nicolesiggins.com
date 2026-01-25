@@ -306,6 +306,13 @@ Go to Settings > Pages > Build and Development and choose "Deploy from a branch.
 
 Further down the page you can add your custom domain. You'll also need to make sure your DNS records / name servers are correct for Github at your domain registrar. My registrar is [Porkbun](https://porkbun.com/), who had a nifty little button for Github, that got this set up for me.
 
+Just a heads up that if you plan on having an archival site that you don't update very much, but you still want the year listed on the site to be up to date, you can set up a cron to run at a certain rhythm, for example:
+
+```bash
+schedule:
+    - cron: "0 0 1 1 *"  # Runs at midnight UTC on Jan 1 each year
+```
+
 I hope this helps! 
 
 ## Got any feedback?
