@@ -1,5 +1,5 @@
 ---
-title: "2021 London Missing Maps - Making a MapComplete Theme"
+title: "2021 Missing Maps London - Making a MapComplete Theme"
 description: "A talk about making a MapComplete theme for postboxes and post offices"
 layout: "single"
 draft: false
