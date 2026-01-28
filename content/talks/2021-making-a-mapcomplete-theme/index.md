@@ -30,7 +30,7 @@ I dove into the project and in the process found MapComplete. A true gem of a to
 
 MapComplete themes are made of a JSON file that links to other assets (such as icons, licensing, OSM data using the Overpass API). Depending on what you want to showcase, each feature must be a separate layer within the JSON file. The icons are licensed under CC-BY-4.0, are sourced from Wikimedia Commons, and attributed on the licensing page of the theme. You can also add some CSS in the lineRendering of the JSON file.
 
-I gave a short presentation on my experience making this theme at London Missing Maps on November 2, 2021.
+I gave a short presentation on my experience making this theme at Missing Maps London on November 2, 2021.
 
 {{< button href="https://mapcomplete.org/postboxes.html?" target="_blank" >}}
 View my theme here
