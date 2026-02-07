@@ -21,7 +21,7 @@ I built my first website an a now discontinued product called iWeb, which came b
 
 WordPress was interesting to learn, and I somewhat enjoyed it. After they moved to "blocks", a bit less so. 😊 I found that I was always searching for themes that I didn't really love, and it felt large and bloated, and was really a bit too much for what I was needed. Life got busy and the thought of moving off of Wordpress felt overwhelming and there was always something more important to do.
 
-As I became a daily programmer, and as part of my work in open data, open source, and the Missing Maps ecosystem, I discovered static site generators. My first go was with Jekyll, where I built a [prototype](https://www.missingmaps.org/missing-maps-website/) of a new website for Missing Maps, using the [Dogwood theme](https://github.com/osmus/dogwood).
+As I became a daily programmer, and as part of my work in open data, open source, and the Missing Maps ecosystem, I discovered static site generators. My first go was with Jekyll, where I built a [prototype](https://github.com/MissingMaps/missing-maps-website) of a new website for Missing Maps, using the [Dogwood theme](https://github.com/osmus/dogwood).
 
 When it came time to move off Wordpress and also to bring my website into the present day, I had been hearing a lot about Hugo, and it's revolutionary build times and modern feel. I thought it would be fun to learn and experiment with. And it has been! While there has been some initial struggles here and there with learning Hugo's quirks, I find it fun to work on my website while using Hugo, and I am very excited I found it!
 
