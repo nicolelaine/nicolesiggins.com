@@ -6,9 +6,9 @@ draft: false
 date: 2026-01-20
 tags: ["Mapping", "OpenStreetMap", "Open Data"]
 coverCaption: "From left to right: Sophia Chen, Gala Camacho, me, and Maria Longley. 😊"
-coverAlt: "Nicole Siggins stands at a podium, presenting a past MapSwipe use case."
-featureAlt: "Nicole Siggins stands at a podium, presenting a past MapSwipe use case."
-thumbnailAlt: "Presenting on a MapSwipe past use case. Photo by Juan Carlos Melo Luna."
+coverAlt: "Sophia Chen, Gala Camacho, Nicole Siggins, and Maria Longley smile for the camera after their panel discussion."
+featureAlt: "Sophia Chen, Gala Camacho, Nicole Siggins, and Maria Longley smile for the camera after their panel discussion."
+thumbnailAlt: "Sophia Chen, Gala Camacho, Nicole Siggins, and Maria Longley smile for the camera after their panel discussion."
 ---
 
 I was excited to be invited to speak as part of this panel, "Maps, maps and Diversity, Equity and Inclusion," held at the 2025 State of the Map Europe in Dundee, Scotland. 
