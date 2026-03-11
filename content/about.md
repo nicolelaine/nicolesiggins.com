@@ -41,7 +41,7 @@ I've worn many hats throughout my life: filmmaker, preschool teacher, tech suppo
 
 ## Family & Life at Home 🏡
 
-I currently live in Hamburg, Germany, and have also lived in Berlin, Prague, Los Angeles, Lisbon, and Boston. I have a lovely long term partner and small sweet dog named Yuki. I'm a citizen of both the United States and Germany. I consider Boston MA, USA my hometown.
+I currently live in Hamburg, Germany, and have also lived in (or spent a significant amount of time in) Berlin, Prague, Los Angeles, Lisbon, Copenhagen, London, and Boston. I have a lovely long term partner and small sweet dog named Yuki. I'm a citizen of both the United States and Germany. I consider Boston MA, USA my hometown.
 
 ---
 
