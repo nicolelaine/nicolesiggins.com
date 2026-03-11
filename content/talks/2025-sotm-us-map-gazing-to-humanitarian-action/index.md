@@ -14,7 +14,7 @@ thumbnailAlt: "Nicole Siggins standing a podium bearing the Boston University lo
 I presented my talk, "From map gazing to humanitarian action - My journey through OSM and the world of open mapping" on Friday, June 20th at 15:15 local time in the Metcalf Small Ballroom at Boston University's George Sherman Union.
 
 {{< button href="https://www.youtube.com/watch?v=teHjG3qQADc" target="_blank" >}}
-Watch the video on YouTube
+Watch the recording on YouTube
 {{< /button >}}
 
 ### Talk synopsis
