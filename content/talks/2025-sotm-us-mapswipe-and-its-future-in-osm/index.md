@@ -14,7 +14,7 @@ thumbnailAlt: "Presenting on a MapSwipe past use case. Photo by Juan Carlos Melo
 I presented my talk, “MapSwipe Today and Its Future in OSM” on Saturday, June 21st at 13:45 local time in the Metcalf Large Ballroom at Boston University’s George Sherman Union.
 
 {{< button href="https://www.youtube.com/watch?v=n4_G51fgT-8" target="_blank" >}}
-Watch the video on YouTube
+Watch the recording on YouTube
 {{< /button >}}
 
 ### Talk synopsis
