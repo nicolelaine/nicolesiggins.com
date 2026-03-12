@@ -3,7 +3,7 @@ title: "2025 State of the Map Europe - MapSwipe Today and Its Future in OSM"
 description: "An update on what's going on with MapSwipe and its future within the wider OSM ecosystem. This is a follow up from a similar talk that took place in June 2025 at State of the Map US in Boston, Massachusetts."
 layout: "single"
 draft: false
-date: 2026-01-19
+date: 2026-01-21
 tags: ["Mapping", "OpenStreetMap", "Open Data", "MapSwipe"]
 coverCaption: "Nicole Siggins presenting on MapSwipe with Benni Herfort dialing in remotely."
 coverAlt: "A woman stands at a podium presenting about MapSwipe."

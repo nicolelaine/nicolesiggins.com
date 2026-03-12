@@ -11,7 +11,7 @@ featureAlt: "Sophia Chen, Gala Camacho, Nicole Siggins, and Maria Longley smile 
 thumbnailAlt: "Sophia Chen, Gala Camacho, Nicole Siggins, and Maria Longley smile for the camera after their panel discussion."
 ---
 
-I was excited to be invited to speak as part of this panel, "Maps, maps and Diversity, Equity and Inclusion," held at the 2025 State of the Map Europe in Dundee, Scotland. 
+I was excited to be invited to speak as part of the panel, "Maps, maps and Diversity, Equity and Inclusion," held at the 2025 State of the Map Europe in Dundee, Scotland. 
 
 The panel took place on Saturday, November 15, 2025 at 11:30 in the "Area" room, was organized by [Gala Camacho](https://galacamacho.com/), and also included Maria Longley from MSF and Sophia Chen from the Canadian Red Cross. 
 
