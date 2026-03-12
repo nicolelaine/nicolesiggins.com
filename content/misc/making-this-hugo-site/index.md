@@ -17,7 +17,7 @@ Hello there! I built this site in Hugo and this post is to keep track of what I 
 
 ## Why Hugo? 
 
-I built my first website an a now discontinued product called iWeb, which came built in on a Mac computer. It was perfect for what it was at the time, drag and drop boxes, built in themes, etc. I was dismayed when it was discontinued and moved to Wordpress.org.
+I built my first website with a now discontinued product called iWeb, which came built in on a Mac computer. It was perfect for what it was at the time, drag and drop boxes, built in themes, etc. I was dismayed when it was discontinued and moved to Wordpress.org.
 
 WordPress was interesting to learn, and I somewhat enjoyed it. After they moved to "blocks", a bit less so. 😊 I found that I was always searching for themes that I didn't really love, and it felt large and bloated, and was really a bit too much for what I was needed. Life got busy and the thought of moving off of Wordpress felt overwhelming and there was always something more important to do.
 
