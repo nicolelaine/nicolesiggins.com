@@ -11,6 +11,9 @@ featureAlt: "A woman stands at a podium presenting about MapSwipe."
 thumbnailAlt: "A woman stands at a podium presenting about MapSwipe."
 ---
 
+I presented the talk MapSwipe Today and Its Future in OSM at State of the Map Europe in Dundee, Scotland on Friday, November 14th, at 3:30 pm in the Way room, as part of the 
+Humanitarian block. 
+
 This talk is a follow up from a [similar talk](/talks/2025-sotm-us-mapswipe-and-its-future-in-osm/) I gave at State of the Map US in Boston in June 2025. MapSwipe has had quite a bit of progress and change in the last year and there are some open community questions around moving forward with directly connecting the tool to the OpenStreetMap database, as well as an important dialogue around humans using the tool to validate machine learning models with a potential option to upload the validated datasets (most likely building footprints) directly to OpenStreetMap. 
 
 For this instance of the talk, I collaborated with Benni Herfort from the Heidelberg Institute of Geoinformation Technology (HeiGIT.) He unfortunately broke his foot about a week before the conference, so could not attend in person, but was able to dial in remotely. Hooray!
