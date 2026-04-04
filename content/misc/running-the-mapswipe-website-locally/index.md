@@ -37,6 +37,10 @@ e.) Don't commit this to the repo!
 
 This should bypass any errors and allow you to run the repo locally at port 3020.
 
+{{< alert >}}
+**Update! April 2, 2026:** The bug that required this extra file is now fixed! The API endpoints above remain the same.
+{{< /alert >}}
+
 ***
 
 A friend recently reached out and wanted to know how to run the [MapSwipe website](https://mapswipe.org/en/) locally, so he could check the format of a blog post he'd written. Good question! I had no idea. Well, now I do, and after you read this, hopefully you will too! 😊 
