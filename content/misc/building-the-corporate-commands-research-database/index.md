@@ -11,7 +11,7 @@ featureAlt: "The corporate commands research database is alive again!"
 thumbnailAlt: "A screenshot of the corporate commands research database."
 ---
 
-I built an archival research database for the Corporate Commands project by the Institute for Infinitely Small things, an art and research group who conduct creative, participatory research that aims to temporarily transform public spaces and instigate dialogue about democracy, spatial justice and everyday life. The Institute's projects use performance, conversation and unexpected interventions to investigate social and political "tiny things". Corporate Commands was always one of my favorite institute projects, so I thought it would be fun to get our research database of corporate commands back up online. 
+I built an archival research database for the Corporate Commands project by The Institute for Infinitely Small things, an art and research group who conduct creative, participatory research that aims to temporarily transform public spaces and instigate dialogue about democracy, spatial justice and everyday life. The Institute's projects use performance, conversation and unexpected interventions to investigate social and political "tiny things". Corporate Commands was always one of my favorite institute projects, so I thought it would be fun to get our research database of corporate commands back up online. 
 
 I decided to build the site in Hugo, using the Blowfish theme, which is a fork of the Congo them, with some enhancements. Because I also built the [Institute archive](https://www.infinitelysmallthings.net/) in Blowfish, I wanted to use the same theme for the corporate commands research database, so that the websites would link together aesthetically. 
 
