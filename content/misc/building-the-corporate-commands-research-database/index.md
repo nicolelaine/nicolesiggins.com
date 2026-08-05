@@ -78,6 +78,42 @@ and
 
 Once you comment both of these out, the site author will no longer appear over the top of the hero image on the homepage. 
 
+## Making the hero image on the homepage clickable
+
+I wanted to make the hero image on the homepage clickable, and have it lead to the research database itself. To do this, you must first add a parameter to your params.toml page:
+
+````bash
+homepageImageLink = "/research-database/"
+````
+
+Then, make your way into the layouts/partials/home/hero.html file inside of your own repository (this was created in the last point, so if you didn't do that then, you'll need to create the folder and file in own your repo first. Don't forget to add in the original code!)
+
+Locate this line:
+
+````html
+<img class="h-full w-full object-cover nozoom mt-0 mr-0 mb-0 ml-0" src="{{ $homepageImage.RelPermalink }}">
+````
+
+and replace it with: 
+
+````html
+<a href="{{ .Site.Params.homepage.homepageImageLink | relURL }}" class="absolute inset-0 z-10"> <img class="h-full w-full object-cover nozoom mt-0 mr-0 mb-0 ml-0" src="{{ $homepageImage.RelPermalink }}"> </a>
+````
+
+Lastly, in order to actually make the image clickable, make sure to add "pointer-events-none" to the front of the following two divs, like so:
+
+````html
+  <div
+  class="pointer-events-none absolute inset-0 bg-gradient-to-r from-primary-500 to-secondary-600 dark:from-primary-600 dark:to-secondary-800 mix-blend-multiply"></div>
+````
+
+````html
+<div
+class="pointer-events-none inset-0 from-primary-500 to-secondary-600 dark:from-primary-600 dark:to-secondary-800 mix-blend-multiply"></div>
+````
+
+This makes the element invisible to the mouse, so that it becomes clickable when you hover over it. Hooray! :) 
+
 ## How I got the images that fit perfectly in the hero and page headers. 
 
 If you want to create images with text that work perfectly for the hero on the home page as well as the individual pages, you can use this script, just swap out the text for what you want.
