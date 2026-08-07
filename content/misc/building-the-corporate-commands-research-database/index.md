@@ -21,7 +21,7 @@ So here goes! 😊
 
 ## How to change the header to show the author as opposed to the site name
 
-Because this is meant to be a database for the Institute for Infinitely Small Things, I wanted the both the copyright and the name in the header of the site to show this name (the site author), but I wanted the actual title of the site to be The International Database of Corporate Commands (and I wanted to this to show up on the top tab). The Blowfish theme has all of these items listed as the site title, so I needed to adjust some of the code. 
+Because this is meant to be a database for The Institute for Infinitely Small Things, I wanted the both the copyright and the name in the header of the site to show this name (the site author), but I wanted the actual title of the site to be The International Database of Corporate Commands (and I wanted to this to show up on the top tab). The Blowfish theme has all of these items listed as the site title, so I needed to adjust some of the code. 
 
 Here's how I did it: 
 
@@ -113,6 +113,64 @@ class="pointer-events-none inset-0 from-primary-500 to-secondary-600 dark:from-p
 ````
 
 This makes the element invisible to the mouse, so that it becomes clickable when you hover over it. Hooray! :) 
+
+## Making the hero image on the subsequent article pages clickable 
+
+While I thought it made sense for the hero image on the homepage to be clickable, it also seemed like a good idea to make the hero images across the other website pages clickable as well. In all cases, I wanted the hero image to redirect to the research database upon being clicked.
+
+To start, I created a new partial in my repository, and copied the [original code](https://github.com/nunocoracao/blowfish/blob/main/layouts/partials/hero/basic.html) into it.: 
+
+````bash
+layouts/partials/hero/basic.html
+````
+
+Once there, you’ll need to adjust some of the code on line 44. This is because when creating an override, the files in the repository can end up running in a different order than when you are pulling the path from Github, which in this case was causing the site to break.
+
+You’ll want to change the following line:
+
+````go
+{{ $size := site.Store.Get "backgroundImageWidth" }}
+````
+
+To
+
+````go
+{{ $size := print (site.Params.backgroundImageWidth | default "1200") "x" }}
+````
+
+This sets the background image size when the partial is run, instead of asking to grab it, which in this case keeps the build running without any errors.
+
+Then, to make all the hero images clickable, you’ll want to wrap the div holding the image in an anchor tag. That means that the following:
+
+````html
+<div class="overflow-hidden h-36 md:h-56 lg:h-72">
+  <img
+    src="{{ . }}"
+    role="presentation"
+    loading="eager"
+    decoding="async"
+    fetchpriority="high"
+    class="w-full h-full nozoom object-cover"
+    {{ if $style }}style="{{ $style | safeCSS }}"{{ end }} />
+</div>
+````
+
+Becomes this instead:
+
+````html
+<div class="overflow-hidden h-36 md:h-56 lg:h-72">
+  <a href="/research-database/">
+    <img
+      src="{{ . }}"
+      role="presentation"
+      loading="eager"
+      decoding="async"
+      fetchpriority="high"
+      class="w-full h-full nozoom object-cover hover:opacity-95 transition-opacity cursor-pointer"
+      {{ if $style }}style="{{ $style | safeCSS }}"{{ end }} />
+  </a>
+</div>
+````
 
 ## How I got the images that fit perfectly in the hero and page headers. 
 
