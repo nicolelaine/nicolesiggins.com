@@ -1,6 +1,6 @@
 ---
 title: "Talks"
-description: "A list of talks that I've given."
+description: "A list of selected talks."
 layout: "list"
 draft: false
 categories: []

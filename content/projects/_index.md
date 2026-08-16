@@ -1,5 +1,5 @@
 ---
-description:  "A list of projects I've done."
+description:  "A list of selected projects."
 layout: "list"
 title: "Projects"
 draft: false
