@@ -6,7 +6,7 @@ layout: "single"
 
 ## :sparkles: Hi, I'm Nicole. :sparkles:
 
-I'm a map nerd, dog lover, and open data / tech enthusiast.
+I'm a map nerd, dog lover, and open data / open source / tech enthusiast.
 
 ---
 
@@ -35,7 +35,9 @@ I'm on the [MapSwipe governance team](/spaces/mapswipe-governance-team/) and lov
 
 ## My Journey ✨
 
-I've worn many hats throughout my life: filmmaker, preschool teacher, tech support agent, administrator, community organizer, event organizer, b2b relationship manager, project manager, (unofficial) product manager, tech lead. I am endlessly curious, am a life-long learner, and love having a beginner's / growth mindset! Each role I’ve held has deepened my passion for solving complex problems, making things happen, and helping others feel confident in learning something new.
+I've worn many hats throughout my life and career: filmmaker, documentarian, teacher, tech support agent, administrator, web developer, community organizer, event organizer, b2b relationship manager, project manager, product manager, and tech lead are just a few. I am endlessly curious, am a life-long learner, and love having a beginner's / growth mindset! 
+
+Each role I’ve held has deepened my passion for solving complex problems, making things happen, and helping others feel confident in learning something new.
 
 ---
 
@@ -58,7 +60,7 @@ Outside of my tech and computer related interests, I’m also artsy and sporty:
 
 ## Let’s Connect 🌐
 
-Have questions, or just want to say hi? Please reach out! You can find me on on [Github](https://github.com/nicolelaine), [email](mailto:hi@nicolesiggins.com), and [LinkedIn](https://www.linkedin.com/in/nicolesiggins/). (If you find me on LinkedIn, please write me a message - I won't know to add you if you don't write me!)
+Have questions, or just want to say hi? Please reach out! You can find me on on [Github](https://github.com/nicolelaine), [email](mailto:hi@nicolesiggins.com), and [LinkedIn](https://www.linkedin.com/in/nicolesiggins/). (If you find me on LinkedIn, please write me a message, so I know why you think we should connect!)
 
 Have fun exploring my site! See ya around! 😊
 
