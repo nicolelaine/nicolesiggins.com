@@ -27,7 +27,7 @@ I adore beginners. No question is too silly, and I’m great at translating betw
 
 ### Project & Product Management 
 
-I love seeing a project through to completion. Most recently, I secured funding and helped launch a web version of the popular [MapSwipe](https://mapswipe.org) humanitarian mapping mobile app. [MapSwipe4Web](https://web.mapswipe.org) was born, with funding from the [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/) and developed by the [Heidelberg Institute for GeoInformation Technology (HeiGIT)](https://heigit.org). MapSwipe4Web now also has [street level imagery projects](https://www.hotosm.org/updates/mapswipe-street-level-imagery/), which I also secured funding for and helped manage into production.
+I love seeing a project through to completion. Most recently, I secured funding and helped launch a web version of the open source [MapSwipe](https://mapswipe.org) humanitarian mapping mobile app. [MapSwipe4Web](https://web.mapswipe.org) was born, with funding from the [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/) and developed by the [Heidelberg Institute for GeoInformation Technology (HeiGIT)](https://heigit.org). MapSwipe4Web now also has [street level imagery projects](https://www.hotosm.org/updates/mapswipe-street-level-imagery/), which I also secured funding for and helped manage into production.
 
 I'm on the [MapSwipe governance team](/spaces/mapswipe-governance-team/) and love helping to guide its growth and optimization. I've contributed to shaping its current roadmap, documenting user-reported bugs, and developing training materials and resources.
 
